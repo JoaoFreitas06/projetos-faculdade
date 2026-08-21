@@ -2,9 +2,9 @@
 
 ## 1. Identificação
 - Turma: Tendencias em Ciencia da Computação
-- Grupo:
+- Grupo: Só eu
 - Data: 20/08/2026
-- Integrantes: João Vitor de Freitas Silva
+- Integrantes: João Vitor de Freitas Silva - 38443261
 ## 2. Problema escolhido (Utilizei o Claude)
 Bolha da IA:
 Com o crescimento acelerado de startups e os altos investimentos na área de IA, o mercado tecnológico está prometendo coisas quase irreais. Muitas empresas não possuem tecnologia suficiente para sustentar o que afirmam, o que acaba impactando toda a área da tecnologia.
