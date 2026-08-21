@@ -1,4 +1,4 @@
-# Take Ayay
+# Take Away
 
 ## Cognitivo
 E muito mais facil de usar qualquer IA com um prompt bem feito falando o que você deseja, do que so pedir algo superficialmente e receber uma resposta superficial igual. 
