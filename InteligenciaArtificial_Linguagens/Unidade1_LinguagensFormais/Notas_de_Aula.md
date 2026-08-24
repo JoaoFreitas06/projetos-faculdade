@@ -942,20 +942,36 @@ Significa:
 Antes de avançar para a próxima aula, verifique se você consegue explicar:
 
 * [ ] O que é um **alfabeto `Σ`**;
+      E um conjunto finito de símbolos usados para formar palavras.
 * [ ] O que é uma **cadeia**;
+      Qualquer sequencia de símbolos do alfabeto, colados um no outro.
 * [ ] O que significa **`ε`**;
+      E uma cadeia vazia, uma sequencia que não tem nenhum símbolo.
 * [ ] Por que **`|ε| = 0`**;
+      Porque | | fala o comprimento da cadeia, e como não há símbolo nenhum é 0.
 * [ ] O que é um **prefixo**;
+      E uma cadeia formada pegando os símbolos iniciais de outra cadeia.
 * [ ] O que é um **sufixo**;
+      E o oposto do prefixo, começando do final da cadeia.
 * [ ] O que significa **`Σ*`**;
+      Representa todas as cadeias possíveis formadas com os símbolos do alfabeto
 * [ ] Se `Σ*` possui limite de tamanho;
+      Não, ele e infinito.
 * [ ] O que é uma **linguagem formal `L`**;
+      E um conjunto de cadeias sobre um alfabeto.
 * [ ] O que significa **`L ⊆ Σ*`**;
+      Significa que toda linguagem L e um subconjunto de Σ*, toda cadeia de L e formada com símbolos de Σ.
 * [ ] O que é uma **gramática formal**;
+      Um conjunto de regras que fala como produzir todas as cadeias de uma Linguagem.
 * [ ] O que são **terminais e não terminais**;
+      Terminais são símbolos do alfabeto que aparecem na cadeia final.
+      E os não Terminais são os símbolos auxiliares que podem ser substituídos por outras coisas por conta das regras, e eles não aparecem na cadeia final.
 * [ ] O que é uma **regra de produção**;
+      Uma regra e usada para substituir o não terminal por uma sequuencia.
 * [ ] Como ler **`S → aS | ε`**;
+      S pode ser substituido por aS, ou por ε.
 * [ ] Como gerar palavras usando uma gramática.
+      Começa pelo simbolo inicial S e vai aplicando as regras de produção, substituindo os não terminais ate sobrar so os terminais.
 
 ---
 
