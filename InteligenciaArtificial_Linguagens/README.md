@@ -6,9 +6,9 @@ Repositório com atividades e exercícios da disciplina de Linguagens Formais e 
 
 - `Unidade1_LinguagensFormais/` — introdução a linguagens formais
 - `Unidade2_GramaticasFormais/` — gramáticas formais e atividades resolvidas
-- `Expressoes_Regulares/` — exercícios sobre expressões regulares
-- `Atividade-Turing/` — atividade sobre maquina de turing
-
+- `Expressoes_Regulares/` — exercícios sobre Expressões Regulares
+- `Atividade-Turing/` — atividade sobre Maquina de Turing
+- `Atividade-AgentesInteligentes/` — atividade sobre Agentes Inteligentes
 ## 🛠️ Tecnologias
 
 - Python
